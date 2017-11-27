@@ -1,0 +1,107 @@
+[
+    [
+        "D:\\salesfORCE\\RohitOrgDemoSfdx\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "D:\\salesfORCE\\RohitOrgDemoSfdx\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1511775401174,
+            "changeTime": 1511775401174,
+            "contentHash": "8ee4255043100c6ad7d0e9b44c41937acd88a0d2",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "D:\\salesfORCE\\RohitOrgDemoSfdx\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "D:\\salesfORCE\\RohitOrgDemoSfdx\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1511771082439,
+            "changeTime": 1511771082439,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\salesfORCE\\RohitOrgDemoSfdx\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "D:\\salesfORCE\\RohitOrgDemoSfdx\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1511771082440,
+            "changeTime": 1511771082440,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\salesfORCE\\RohitOrgDemoSfdx\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "D:\\salesfORCE\\RohitOrgDemoSfdx\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1511771082440,
+            "changeTime": 1511771082440,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\salesfORCE\\RohitOrgDemoSfdx\\force-app\\Test.cls",
+        {
+            "state": "n",
+            "sourcePath": "D:\\salesfORCE\\RohitOrgDemoSfdx\\force-app\\Test.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 62,
+            "modifiedTime": 1511775401173,
+            "changeTime": 1511775401173,
+            "contentHash": "5c1bb1a2a0e6e1560ef0c93acf7d7a0595cec6d3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\salesfORCE\\RohitOrgDemoSfdx\\force-app\\Test.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\salesfORCE\\RohitOrgDemoSfdx\\force-app\\Test.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 182,
+            "modifiedTime": 1511775401175,
+            "changeTime": 1511775401175,
+            "contentHash": "47f4a30ce0aea3a7619125c3ca6bc9be24db249a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\salesfORCE\\RohitOrgDemoSfdx",
+        {
+            "state": "n",
+            "sourcePath": "D:\\salesfORCE\\RohitOrgDemoSfdx",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1511775401604,
+            "changeTime": 1511775401604,
+            "contentHash": "2ce397c906ddd410f605b2a9868f795bb563f7c2",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
